@@ -44,6 +44,8 @@ Measures of spread
 
 
 ### Challenges and Difficulties Encountered
+ -Editing labels and y-axis values as well as units came across as a challenge, but were able to figure it out. 
+ - Also oushing several changes on the local repo to the remote, at n epoint i just erased everything and made a new one, couldn't find a quicker answer.
 
 ## Results
 
