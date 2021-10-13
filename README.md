@@ -15,6 +15,14 @@ Find trends among different kickstarter campaigns, in order to help Louise decid
 ## Analysis and Challenges
 
 
+Usin measure of central tendency 
+- Averages (=ROUND(E2/D2*100,0))
+- Trouble shooting (#DIV/0!) dividing by cero (=IFERROR(ROUND(E2/L2,2),0))
+
+Creating pivot tables 
+- Parent category
+- 
+
 
 ### Analysis of Outcomes Based on Launch Date
 
